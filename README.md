@@ -21,7 +21,7 @@ I have been in charge of deployments, CI and CD systems using the following tool
 - Bash
 
 Some projects I have worked on either with companies, solo or with friends.
-- Smart Meters (UK) (https://www.earthsense.co.uk/)
+- Smart Meters (UK) (https://www.redfishuk.com/energy)
 - Greenfield CRM (https://www.earthsense.co.uk/)
 - Air Quality data handling and presentation (https://www.earthsense.co.uk/)
 - Godot engine video game (https://godotengine.org/)
