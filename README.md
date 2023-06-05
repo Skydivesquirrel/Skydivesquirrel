@@ -27,7 +27,8 @@ Some projects I have worked on either with companies, solo or with friends.
 - Godot engine video game (https://godotengine.org/)
 - Custom Swagger Docs (https://swagger.io/)
 - Tenant Management Software (in dev)
-- I do these fun puzzles every year, Advent of Code (https://adventofcode.com/) 
+- Teaching kids to code (https://codingwithsophie.warwick.ac.uk/)
+- I do these fun puzzles every year, Advent of Code (https://adventofcode.com/)
 
 Really into self-hosting. Currently have a local homeserver running a couple games servers. A Nextcloud Server (https://nextcloud.com/) and a Jellyfin server (https://jellyfin.org/). All of these are running in docker containers on a local box in my house!
 
